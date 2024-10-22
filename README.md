@@ -39,4 +39,4 @@ Green Office é um sistema responsivo para o monitoramento de máquinas agrícol
 1. Clone o repositório:
    ```bash
    git clone https://github.com/danilobarros3/green-office.git
-   cd green-office-monitoramento
+   cd green-office
